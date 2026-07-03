@@ -41,7 +41,6 @@ This repository provides an automated solution that shifts component profiling f
 * **Firmware:** Embedded C++ (Arduino Core)
 * **Frontend Web Dashboard:** HTML5, CSS3 (responsive dashboard), JavaScript (Fetch API for 1-second interval live updates)
 
-<img width="1600" height="1015" alt="image" src="https://github.com/user-attachments/assets/8a222e49-79f8-4ef3-8216-c321ee96d520" />
 
 
 ---
