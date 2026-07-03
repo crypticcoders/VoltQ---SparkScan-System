@@ -1,5 +1,5 @@
-# VoltQ - SparkScan-System
-# IoT-Enabled Intelligent LCR Diagnostic Hub & Component Profiler
+# VoltQ - LCR Diagnostic Hub
+# IoT-Enabled Intelligent SparkScan System & Component Profiler
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5d5a85cb-ba66-48c2-9f9b-708adfff259a" />
 
@@ -34,15 +34,14 @@ This repository provides an automated solution that shifts component profiling f
 * Custom 2-Pin and 3-Pin Breadboard Testing Slots
 * Input compoenets to test
 
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/c42d95fa-5c02-4593-9f3f-9756fa2c1efa" />
+
+
 ### Software Stack
 * **Firmware:** Embedded C++ (Arduino Core)
 * **Frontend Web Dashboard:** HTML5, CSS3 (responsive dashboard), JavaScript (Fetch API for 1-second interval live updates)
 
----
+<img width="1600" height="1015" alt="image" src="https://github.com/user-attachments/assets/8a222e49-79f8-4ef3-8216-c321ee96d520" />
 
-##  Repository Structure
-├── Arduino_Uno_Master/
-│   └── Arduino_Uno_Master.ino      # Controls analog sampling, Tau calculations, and dual-current scans
-├── ESP32_Web_Server/
-│   └── ESP32_Web_Server.ino          # Handles Wi-Fi routing, local web server initialization, and HTML hosting
-└── README.md                         # Project documentation
+
+---
