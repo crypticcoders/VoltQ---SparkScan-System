@@ -39,6 +39,7 @@ VoltQ was built to eliminate this friction entirely. Instead of a human deciding
 
 ---
 
+
 ## How It Works — Detection Logic Overview
 
 1. **Component inserted** into the universal 2-pin slot.
