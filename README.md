@@ -2,7 +2,8 @@
 # VoltQ - LCR Diagnostic Hub
 ### IoT-Enabled Intelligent SparkScan System & Component Profiler
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5d5a85cb-ba66-48c2-9f9b-708adfff259a" />
+<img width="1024" height="559" alt="Untitled - July 04, 2026 at 10 00 51" src="https://github.com/user-attachments/assets/ff64b6c6-0329-4f0f-91df-6b8646e4cca0" />
+
 
 An automated, software-defined hardware testing station that automatically detects, measures, and diagnoses electronic components. The system utilizes an **Arduino Uno** for precision real-time analog data capture and an **ESP32** to serve a live web telemetry dashboard over a local wireless network — turning what used to be a manual, multimeter-driven process into a fully automated diagnostic pipeline.
 
