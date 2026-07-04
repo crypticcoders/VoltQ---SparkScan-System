@@ -37,6 +37,8 @@ VoltQ was built to eliminate this friction entirely. Instead of a human deciding
 
 * **Wireless Inventory Telemetry** — Employs a hardware level-shifting network (5V to 3.3V logic) to safely pipe real-time diagnostic data from the Arduino Uno directly to an ESP32, which hosts an asynchronous, dark-themed local web dashboard accessible from any device on the same Wi-Fi network.
 
+<img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/2ceea343-61fb-4716-935a-21b8162df485" />
+
 ---
 
 
