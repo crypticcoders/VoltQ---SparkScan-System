@@ -54,6 +54,8 @@ VoltQ was built to eliminate this friction entirely. Instead of a human deciding
 7. **Session logging** — every reading is appended to a scrollable, chronological history feed for later review.
 
 ---
+<img width="1280" height="963" alt="WhatsApp Image 2026-07-04 at 10 49 53 AM" src="https://github.com/user-attachments/assets/e6bd5584-9aaa-4a1f-8f21-54aa4ba1fd4b" />
+
 
 ## System Architecture
 
@@ -92,6 +94,9 @@ VoltQ was built to eliminate this friction entirely. Instead of a human deciding
 4. Power the system and note the IP address printed to Serial by the ESP32.
 5. Connect any device on the same Wi-Fi network and navigate to that IP address in a browser to view the live dashboard.
 6. Insert a component into the 2-pin (passive/diode) or 3-pin (regulator) test slot and watch the classification and reading appear in real time.
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/88b584ea-e65e-4f3e-84d5-39ee0371d3a5" />
+
 
 ---
 
